@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>TabWidget</class>
+ <widget class="QTabWidget" name="TabWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>755</width>
+    <height>523</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>batcoders.com</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>:/n/img/home.ico</normaloff>:/n/img/home.ico</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">.QTabBar::tab { background: gray; color: white; } 
+.QTabBar::tab:selected { background: #44D9E6;color: black; } 
+.QTabWidget::pane { border: 0; } 
+.QWidget { background: #44D9E6; }
+.Line
+{
+background:#000;
+color:#000;
+}</string>
+  </property>
+  <property name="currentIndex">
+   <number>-1</number>
+  </property>
+ </widget>
+ <resources>
+  <include location="../source.qrc"/>
+ </resources>
+ <connections/>
+</ui>

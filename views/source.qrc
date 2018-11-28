@@ -1,0 +1,204 @@
+<RCC>
+  <qresource prefix="n">
+    <file>img/0int.gif</file>
+    <file>img/add.png</file>
+    <file>img/agreement.png</file>
+    <file>img/analytics (1).png</file>
+    <file>img/analytics.png</file>
+    <file>img/back.png</file>
+    <file>img/batman-logo.png</file>
+    <file>img/board.png</file>
+    <file>img/Box Filled Filled-100.png</file>
+    <file>img/Bullish-100.png</file>
+    <file>img/Cancel-500.png</file>
+    <file>img/Cash In Hand-100.png</file>
+    <file>img/Cash Register-100.png</file>
+    <file>img/Checkmark-512 (1).png</file>
+    <file>img/clerk-with-tie (1).png</file>
+    <file>img/clipboard.png</file>
+    <file>img/collaboration.png</file>
+    <file>img/Conference Call Filled-100.png</file>
+    <file>img/Counter-100.png</file>
+    <file>img/Delete-100.png</file>
+    <file>img/Double Down Filled-100.png</file>
+    <file>img/edit-document.png</file>
+    <file>img/email.png</file>
+    <file>img/Event Accepted Tentatively Filled-100.png</file>
+    <file>img/exam.png</file>
+    <file>img/Exit-96.png</file>
+    <file>img/facebook-logo-button (1).png</file>
+    <file>img/Future-100.png</file>
+    <file>img/give-money.png</file>
+    <file>img/globe-outline.png</file>
+    <file>img/Guest Male-96.png</file>
+    <file>img/home.ico</file>
+    <file>img/Home-512.png</file>
+    <file>img/icons8-Refresh-104.png</file>
+    <file>img/icons8-Select All-100.png</file>
+    <file>img/instagram-logo.png</file>
+    <file>img/Ketchup-100.png</file>
+    <file>img/line-chart.png</file>
+    <file>img/Lock-512.png</file>
+    <file>img/Logout Rounded Left Filled-100.png</file>
+    <file>img/Money-100.png</file>
+    <file>img/money-bag-with-dollar-symbol.png</file>
+    <file>img/Motorcycle Filled-100.png</file>
+    <file>img/network.png</file>
+    <file>img/next.png</file>
+    <file>img/Numerical Sorting-100.png</file>
+    <file>img/Online Payment-100.png</file>
+    <file>img/Order Delivered Filled-100.png</file>
+    <file>img/phone-symbol-of-an-auricular-inside-a-circle.png</file>
+    <file>img/Plus-500.png</file>
+    <file>img/Printer Door Open Filled-100.png</file>
+    <file>img/Recycling-104.png</file>
+    <file>img/Reply All Arrow Filled-100.png</file>
+    <file>img/report.png</file>
+    <file>img/Restaurant Menu-100.png</file>
+    <file>img/Restaurant Table-100.png</file>
+    <file>img/Restaurant-96.png</file>
+    <file>img/Sale-100.png</file>
+    <file>img/Save-100.png</file>
+    <file>img/Search-100.png</file>
+    <file>img/Settings-500.png</file>
+    <file>img/Shopping Cart Loaded-100.png</file>
+    <file>img/student.png</file>
+    <file>img/twitter-logo-button.png</file>
+    <file>img/User-100.png</file>
+    <file>img/users-group.png</file>
+    <file>img/Worldwide Location-100.png</file>
+    <file>img/icons8-Refresh-104.png</file>
+    <file>img/icons8-Select All-100.png</file>
+    <file>img/Reply All Arrow Filled-100.png</file>
+    <file>img/Logout Rounded Left Filled-100.png</file>
+    <file>img/facebook-logo-button (1).png</file>
+    <file>img/email.png</file>
+    <file>img/phone-symbol-of-an-auricular-inside-a-circle.png</file>
+    <file>img/twitter-logo-button.png</file>
+    <file>img/instagram-logo.png</file>
+    <file>img/home.ico</file>
+    <file>img/Double Down Filled-100.png</file>
+    <file>img/Counter-100.png</file>
+    <file>img/Future-100.png</file>
+    <file>img/Cash Register-100.png</file>
+    <file>img/Bullish-100.png</file>
+    <file>img/Event Accepted Tentatively Filled-100.png</file>
+    <file>img/Recycling-104.png</file>
+    <file>img/Guest Male-96.png</file>
+    <file>img/clerk-with-tie (1).png</file>
+    <file>img/batman-logo.png</file>
+    <file>img/analytics.png</file>
+    <file>img/Worldwide Location-100.png</file>
+    <file>img/back.png</file>
+    <file>img/Box Filled Filled-100.png</file>
+    <file>img/Cancel-500.png</file>
+    <file>img/Cash In Hand-100.png</file>
+    <file>img/Checkmark-512 (1).png</file>
+    <file>img/Delete-100.png</file>
+    <file>img/edit-document.png</file>
+    <file>img/Exit-96.png</file>
+    <file>img/give-money.png</file>
+    <file>img/Home-512.png</file>
+    <file>img/Ketchup-100.png</file>
+    <file>img/line-chart.png</file>
+    <file>img/Lock-512.png</file>
+    <file>img/Money-100.png</file>
+    <file>img/money-bag-with-dollar-symbol.png</file>
+    <file>img/Motorcycle Filled-100.png</file>
+    <file>img/next.png</file>
+    <file>img/Online Payment-100.png</file>
+    <file>img/Order Delivered Filled-100.png</file>
+    <file>img/Plus-500.png</file>
+    <file>img/Printer Door Open Filled-100.png</file>
+    <file>img/Restaurant-96.png</file>
+    <file>img/Restaurant Menu-100.png</file>
+    <file>img/Restaurant Table-100.png</file>
+    <file>img/Sale-100.png</file>
+    <file>img/Save-100.png</file>
+    <file>img/Search-100.png</file>
+    <file>img/Settings-500.png</file>
+    <file>img/Shopping Cart Loaded-100.png</file>
+    <file>img/User-100.png</file>
+    <file>img/users-group.png</file>
+    <file>img/Motorcycle Filled-100.png</file>
+    <file>img/Order Delivered Filled-100.png</file>
+    <file>img/Online Payment-100.png</file>
+    <file>img/Shopping Cart Loaded-100.png</file>
+    <file>img/Printer Door Open Filled-100.png</file>
+    <file>img/Search-100.png</file>
+    <file>img/add.png</file>
+    <file>img/agreement.png</file>
+    <file>img/back.png</file>
+    <file>img/Box Filled Filled-100.png</file>
+    <file>img/Cancel-500.png</file>
+    <file>img/Cash In Hand-100.png</file>
+    <file>img/Checkmark-512 (1).png</file>
+    <file>img/Delete-100.png</file>
+    <file>img/edit-document.png</file>
+    <file>img/Exit-96.png</file>
+    <file>img/give-money.png</file>
+    <file>img/Home-512.png</file>
+    <file>img/Ketchup-100.png</file>
+    <file>img/line-chart.png</file>
+    <file>img/Lock-512.png</file>
+    <file>img/Money-100.png</file>
+    <file>img/money-bag-with-dollar-symbol.png</file>
+    <file>img/next.png</file>
+    <file>img/Plus-500.png</file>
+    <file>img/Restaurant Menu-100.png</file>
+    <file>img/Restaurant Table-100.png</file>
+    <file>img/Sale-100.png</file>
+    <file>img/Save-100.png</file>
+    <file>img/Settings-500.png</file>
+    <file>img/users-group.png</file>
+    <file>img/Restaurant Table-100.png</file>
+    <file>img/add.png</file>
+    <file>img/agreement.png</file>
+    <file>img/back.png</file>
+    <file>img/Cancel-500.png</file>
+    <file>img/Cash In Hand-100.png</file>
+    <file>img/Checkmark-512 (1).png</file>
+    <file>img/Delete-100.png</file>
+    <file>img/edit-document.png</file>
+    <file>img/Exit-96.png</file>
+    <file>img/give-money.png</file>
+    <file>img/Home-512.png</file>
+    <file>img/line-chart.png</file>
+    <file>img/Lock-512.png</file>
+    <file>img/Money-100.png</file>
+    <file>img/money-bag-with-dollar-symbol.png</file>
+    <file>img/next.png</file>
+    <file>img/Plus-500.png</file>
+    <file>img/Sale-100.png</file>
+    <file>img/Save-100.png</file>
+    <file>img/Settings-500.png</file>
+    <file>img/users-group.png</file>
+    <file>img/Exit-96.png</file>
+    <file>img/add.png</file>
+    <file>img/agreement.png</file>
+    <file>img/back.png</file>
+    <file>img/Cancel-500.png</file>
+    <file>img/Cash In Hand-100.png</file>
+    <file>img/Checkmark-512 (1).png</file>
+    <file>img/Delete-100.png</file>
+    <file>img/give-money.png</file>
+    <file>img/Home-512.png</file>
+    <file>img/line-chart.png</file>
+    <file>img/Lock-512.png</file>
+    <file>img/Money-100.png</file>
+    <file>img/next.png</file>
+    <file>img/Plus-500.png</file>
+    <file>img/Sale-100.png</file>
+    <file>img/Save-100.png</file>
+    <file>img/Settings-500.png</file>
+    <file>img/users-group.png</file>
+    <file>img/Delete-100.png</file>
+    <file>img/Save-100.png</file>
+    <file>img/back.png</file>
+    <file>img/Home-512.png</file>
+    <file>img/Checkmark-512 (1).png</file>
+    <file>img/Cancel-500.png</file>
+    <file>img/Plus-500.png</file>
+    <file>img/next.png</file>
+  </qresource>
+</RCC>
